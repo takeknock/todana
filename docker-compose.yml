@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  todana:
+    image: ${DOCKER_REGISTRY}todana
+    build:
+      context: .\Todana
+      dockerfile: Dockerfile
