@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todana", "Todana\Todana.csproj", "{0C698069-738B-41CC-BB16-C75A7A138A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todana.Tests", "Todana.Tests\Todana.Tests.csproj", "{83D58BAE-E98A-4B79-9D4A-3648ABFE0164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodanaTest", "Todana.Tests\TodanaTest.csproj", "{83D58BAE-E98A-4B79-9D4A-3648ABFE0164}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{59BBBAE2-4BCE-45AE-96B0-F59DFA24BEB7}"
 EndProject
